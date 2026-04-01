@@ -28,6 +28,14 @@ The raw CSVs live in `archive/` and are loaded into a SQLite database (`ad_campa
 | **Ad Targeting** | Performance by platform x ad type x gender x age group slices; CPA roll-ups by platform and creative type |
 | **Predictive Models** | Linear regression (purchases from budget + duration) and gradient boosting (purchase rate from targeting mix) with feature importances |
 
+## Screenshots
+
+### Main Tab — KPIs, Country Rankings, and Choropleth Map
+![Main tab showing overview KPIs and country CPA rankings](main_tab.png)
+
+### Campaigns Tab — Performance Table Sorted by CPA
+![Campaigns tab showing per-campaign metrics sorted by CPA](campaigns_tab.png)
+
 ## Getting Started
 
 ### Prerequisites
